@@ -1,5 +1,3 @@
-export {};
-
 /* 
 Assalamualaikum sir, I am Mursalin , and this is my solution to the assignment 1.
 if you want to run the code for cheaking the output,you have to take  action .
